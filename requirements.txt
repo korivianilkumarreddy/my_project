@@ -2,7 +2,6 @@ ipykernel
 pandas
 numpy
 matplotlib
-plotly
 seaborn
 scikit-learn
 pymongo
@@ -18,4 +17,5 @@ python-multipart
 uvicorn
 jinja2
 imblearn
+plotly
 -e .

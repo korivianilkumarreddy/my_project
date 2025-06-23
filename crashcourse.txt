@@ -11,7 +11,6 @@ TOML is becoming the standard for Python packaging metadata.
 > It supports various build systems (like setuptools, poetry, etc.).
 
 3. Explaining sections of pyproject.toml:
-
 [project]: Defines the basic project information (name, version, description, authors).
 [tool.setuptools]: Specifies that setuptools is being used to build the project.
 [tool.setuptools.dynamic]: Links the external files (like requirements.txt) to dynamically pull dependencies.
